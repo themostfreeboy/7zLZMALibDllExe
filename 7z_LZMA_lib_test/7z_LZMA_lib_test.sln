@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7z_LZMA_lib_test", "7z_LZMA_lib_test\7z_LZMA_lib_test.vcxproj", "{27159865-3CE0-43A5-9519-7B752CF16521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27159865-3CE0-43A5-9519-7B752CF16521}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27159865-3CE0-43A5-9519-7B752CF16521}.Debug|Win32.Build.0 = Debug|Win32
+		{27159865-3CE0-43A5-9519-7B752CF16521}.Release|Win32.ActiveCfg = Release|Win32
+		{27159865-3CE0-43A5-9519-7B752CF16521}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
